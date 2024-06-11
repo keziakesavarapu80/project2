@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>Contact Us</title>
+</head>
+<style>
+    body {
+        background-image: url("sky.jpg");
+        background-repeat: no-repeat;
+        background-size: 1200px 800px;
+    }
+</style>
+<body>
+    <form action="loginsuccess.html">
+    <h1><center>Contact Us</center></h1>
+    Email:<input type="text" name="email"><br><br>
+    Phn No:<input type="text" name="No"><br><br>
+    message:<textarea name="mytest" cols="10" row="10"></textarea><br>
+    <input type="submit">
+    </form>
+</body>
+</html>
